@@ -12,7 +12,7 @@ Coming soon.
 
 ## License
 
-This project is available under the MIT license. See the [LICENSE.md](LICENSE.md) file for the full text of this license. Copyright (c) 2021, Priyansh.
+This project is available under the MIT license. See the [LICENSE.md](LICENSE) file for the full text of this license. Copyright (c) 2021, Priyansh.
 
 ## Credits
 
