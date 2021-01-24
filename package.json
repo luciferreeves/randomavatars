@@ -1,0 +1,12 @@
+{
+  "name": "randomavatars",
+  "version": "1.0.0",
+  "description": "Easily generate random avatars from a text string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucifer Conrad Reeves <bobbyskhs@gmail.com> (https://thatcomputerscientist.com)",
+  "license": "MIT"
+}
