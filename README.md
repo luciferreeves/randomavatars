@@ -1,5 +1,11 @@
 # Random Avatars
 
+![GitHub repo size](https://img.shields.io/github/repo-size/luciferreeves/randomavatars?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/luciferreeves/randomavatars?style=for-the-badge) 
+
+[![GitHub followers](https://img.shields.io/github/followers/luciferreeves?&logo=github&style=for-the-badge)](https://www.github.com/luciferreeves) [![Twitter Follow](https://img.shields.io/twitter/follow/lucifercreeves?logo=twitter&style=for-the-badge)](https://www.twitter.com/LuciferCReeves)
+
+<!-- ![npm bundle size](https://img.shields.io/bundlephobia/min/randomavatars?label=NPM%20BUNDLE%20SIZE&style=for-the-badge) ![npm](https://img.shields.io/npm/dw/randomavatars?style=for-the-badge) -->
+
 The only NPM library which uses the [Robohash](https://github.com/e1ven/Robohash) algorithm by [Colin Davis](https://github.com/e1ven) — so go to his GitHub page and show some love.
 
 ## What this actually does?
